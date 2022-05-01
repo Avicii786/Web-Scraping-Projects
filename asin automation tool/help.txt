@@ -1,0 +1,16 @@
+Step 1:
+Install Python by visiting https://www.python.org/.
+
+Step 2:
+Open command prompt (cmd) of your system and run this command:
+pip install numpy pandas selenium
+(it will take some time to install these libraries)
+
+Step 3:
+Open command prompt inside the folder that I provided and 
+Type : python amz.py
+
+Important Points to Remember:
+1) You should always keep your excel file name as amazon_sheet.
+If you want to change excel file name then you have to change it also in code.
+2) There is on file a name of "chromedriver.exe" don't move it or delete.
