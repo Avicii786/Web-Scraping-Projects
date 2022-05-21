@@ -161,7 +161,7 @@ for i in range(len(asin_list)):
         # look for amazon shipped or sell products
         for j in other_sellers:
             html = j.get_attribute("innerHTML")
-            soup = BeautifulSoup(html, parser='html.parser')
+            soup = BeautifulSoup(html, 'html.parser')
             shipFrom = soup.find_all(
                 'span', class_='a-size-small a-color-tertiary')[0].text.strip()
             soldBy = soup.find_all(
