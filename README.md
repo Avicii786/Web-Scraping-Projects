@@ -9,5 +9,5 @@ Here is the list of data scrapig project I have worked on:
 - [Scraping Countries Details From Wordometers.info Using Scrapy](https://github.com/Avicii786/Web-Scraping-Projects/tree/main/WordoMeter)
 
 <h2 style="color:white;text-align:center;text-align:center;">
-<a href="https://www.fiverr.com/awais_anjum786/be-your-web-scraper-data-scraper-website-scraping-expert-with-python" target="_blank" style="width:fix-content;background-color:white;color:black;padding:5px;border-radius:5px;position:fixed;bottom:0;">Hire me For Scraping Project</a>
+<a href="https://www.fiverr.com/awais_anjum786/be-your-web-scraper-data-scraper-website-scraping-expert-with-python" target="_blank" style="width:fix-content;background-color:white;color:black;padding:5px;border-radius:5px;position:fixed;bottom:0;text-align: center;">Hire me For Scraping Project</a>
 </h2>
