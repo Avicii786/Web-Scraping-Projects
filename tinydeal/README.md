@@ -6,4 +6,5 @@ We scraped
   - product url
   - product title
   - proudct price
+  
 from the Smart Phones & Tablets category. We scraped data from 33 pages.
